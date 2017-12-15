@@ -9,8 +9,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SoftwareHouse.Web.Data;
-using SoftwareHouse.Web.Models;
+using SoftwareHouse.Web.Identity.Models;
 using SoftwareHouse.Web.Identity.Services;
+using SoftwareHouse.Web.Data.Models;
 
 namespace SoftwareHouse.Web
 {

@@ -10,8 +10,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using SoftwareHouse.Web.Models;
-using SoftwareHouse.Web.Models.AccountViewModels;
+using SoftwareHouse.Web.Data.Models;
+using SoftwareHouse.Web.Identity.Models;
+using SoftwareHouse.Web.Identity.Models.AccountViewModels;
 using SoftwareHouse.Web.Identity.Services;
 
 namespace SoftwareHouse.Web.Controllers

@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using SoftwareHouse.Web.Models;
+using SoftwareHouse.Web.Identity.Models;
 
 namespace SoftwareHouse.Web.Controllers
 {

@@ -1,6 +1,6 @@
 using System;
 
-namespace SoftwareHouse.Web.Models
+namespace SoftwareHouse.Web.Identity.Models
 {
     public class ErrorViewModel
     {
